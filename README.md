@@ -177,24 +177,25 @@ A modern application designed to help students discover universities and explore
 
 ---
 
-# 📊 GitHub Intelligence
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vijaypatil9373&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=vijaypatil9373&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypatil9373&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypatil9373&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
-<br>
+<br/>
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vijaypatil9373&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=vijaypatil9373&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
 ---
 
 # 📈 Contribution Activity
