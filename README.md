@@ -177,27 +177,6 @@ A modern application designed to help students discover universities and explore
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vijaypatil9373&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypatil9373&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<br/>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vijaypatil9373&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
----
-
 # 📈 Contribution Activity
 
 <div align="center">
